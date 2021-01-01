@@ -7,3 +7,5 @@ A very simple set of flows to :
 This was inspired by https://git.lehouerou.net/laurent/arlo-go and https://robertogallea.com/posts/development/netgear-arlo-system-api
 
 Feedback welcome!
+
+![](images/flow%20sample%20image.png)
